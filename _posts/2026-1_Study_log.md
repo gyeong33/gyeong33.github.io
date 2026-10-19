@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Toy Project"
-info: "toy project"
-tech: "python"
+title:  "Major Courses."
+info: "Major Courses."
+tech: "-"
 type: Toy 
 ---
 
