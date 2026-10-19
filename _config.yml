@@ -1,29 +1,29 @@
 # Site settings
-title: A.P
+title: gyeong's profile
 baseurl: "/ap"
-url: "https://kssim.github.io"
+url: "https://gyeong33.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
 # Author
 author:
-  name: KyeongSeob Sim
-  desc: Hello nice to meet you
-  email: ksub0912@gmail.com
-  selfie: assets/img/profile.jpg
-
+  name: YeGyeong Jung
+  desc: Department of Smart Security, Konyang University
+  email: jungyg9765@gmail.com
+  selfie: 
+  
 # social
 social:
   email: true
   behance:
   bitbucket:
   dribbble:
-  facebook: Test
+  facebook: 
   flickr:
-  github: kssim
+  github: 
   google_plus:
   instagram:
   keybase:
-  linkedin: https://www.linkedin.com/in/kssim/ 
+  linkedin: 
   pinterest:
   reddit:
   soundcloud:
@@ -31,7 +31,7 @@ social:
   steam:
   tumblr:
   gitlab:
-  twitter: Test
+  twitter: 
   vimeo:
   wordpress:
   youtube:
