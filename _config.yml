@@ -1,6 +1,6 @@
 # Site settings
 title: gyeong's profile
-baseurl: "/ap"
+baseurl: 
 url: "https://gyeong33.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
