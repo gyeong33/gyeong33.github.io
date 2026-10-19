@@ -7,9 +7,9 @@ type: Toy
 ---
 
 ## Major Courses.
-* Information Mathematics
-* Fundamentals of Operating Systems
-* Introduction to Cybersecurity
+- Information Mathematics
+- Fundamentals of Operating Systems
+- Introduction to Cybersecurity
 
 
 ## Techique
